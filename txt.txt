@@ -1,0 +1,6 @@
+ls
+pwd
+date && ls
+ls a || pwd
+quit
+date
